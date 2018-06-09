@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: derekkramer/netlify-cms-snipcart
+  repo: derekkramer/netlify-cms-practice
   branch: master 
 
 media_folder: "img/uploads"
